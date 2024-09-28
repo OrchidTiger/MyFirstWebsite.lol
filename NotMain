@@ -1,0 +1,23 @@
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            #S{
+                font-size: 45px;
+            }
+            
+            #poop {
+                font-family:cursive;
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1 id = "poop">Travel to ....</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/125px-Flag_of_Sri_Lanka.svg.png"><br><br>
+        <p id = "S">Sri Lanka</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Topography_Sri_Lanka.jpg/170px-Topography_Sri_Lanka.jpg">
+    </body>
+</html>
